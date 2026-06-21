@@ -8,7 +8,7 @@ function Footer() {
         </h2>
 
         <p className="text-gray-400 mt-2">
-          Full Stack Java Developer
+          Backend Java Developer
         </p>
 
         <p className="text-gray-500 mt-4 text-sm">
